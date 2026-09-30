@@ -1,5 +1,9 @@
 # CS2030S-style Expression practice PE
 
+## More practice
+
+For the separate Campus shuttle practice based on Practice C, go to [`practice-c/`](practice-c/README.md). It has its own 90-minute clock, 10-mark Task 1, and 5-mark Task 2. Start its timer from that directory; the commands below are for the Expression practice at the repository root.
+
 An original, self-contained practice exercise inspired by the structure of the attached PE paper. It is not an official NUS assessment or a copy of its question. Work locally in Terminal and Vim; no IDE or internet is needed once cloned.
 
 **Duration:** 90 minutes. **Marks:** Task 1, 10; Task 2, 5. Task 2 becomes available 60 minutes after you start, leaving 30 minutes to extend your Task 1 design.
