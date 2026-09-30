@@ -1,0 +1,4 @@
+.pe-start
+.build/
+*.class
+.DS_Store
